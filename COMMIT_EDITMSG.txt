@@ -1,0 +1,61 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch SCIENSE
+# Your branch is up to date with 'origin/SCIENSE'.
+#
+# Changes to be committed:
+#	new file:   hikka/_internal.py
+#	new file:   optional_requirements.txt
+#
+# Changes not staged for commit:
+#	modified:   README.md
+#
+# Untracked files:
+#	.deepsource.toml
+#	.dockerignore
+#	.flake8
+#	.github/
+#	.gitignore
+#	CHANGELOG.md
+#	CODE_OF_CONDUCT.md
+#	Dockerfile
+#	LICENSE
+#	assets/
+#	banner.sh
+#	docker-compose.yml
+#	docker.sh
+#	hikka/__init__.py
+#	hikka/__main__.py
+#	hikka/_local_storage.py
+#	hikka/_reference_finder.py
+#	hikka/_types.py
+#	hikka/compat/
+#	hikka/configurator.py
+#	hikka/database.py
+#	hikka/dispatcher.py
+#	hikka/inline/
+#	hikka/langpacks/
+#	hikka/loader.py
+#	hikka/log.py
+#	hikka/main.py
+#	hikka/modules/
+#	hikka/pointers.py
+#	hikka/qr.py
+#	hikka/secure/
+#	hikka/security.py
+#	hikka/tl_cache.py
+#	hikka/translations.py
+#	hikka/types.py
+#	hikka/utils.py
+#	hikka/validators.py
+#	hikka/version.py
+#	hikka/web/
+#	install.sh
+#	poetry.lock
+#	pyproject.toml
+#	requirements.txt
+#	termux.sh
+#	web-resources/
+#
